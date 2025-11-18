@@ -16,5 +16,4 @@ ___
 
 ![[Pasted image 20251114134153.png]]
 
-## `ctfschool{cl1ck_th3_c1rcl3s_4s_1t_1s_y0ur_l4st_d4y}
-`
+## `ctfschool{cl1ck_th3_c1rcl3s_4s_1t_1s_y0ur_l4st_d4y}`
