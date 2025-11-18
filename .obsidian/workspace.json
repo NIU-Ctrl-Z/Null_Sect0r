@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "33619a2728e091d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "08def5cde943f3d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bad64aa0cf4faf1b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0316249dcd8ca88",
+    "type": "split",
+    "children": [
+      {
+        "id": "d01acb9c46d594d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fa994b07d7d3699",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "1c7462bd127f5e2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "07ed8612d7ad870f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92c9e9160aefb40f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d754795aaac23b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e1c68ee99424d85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Сети для маленьких/0. План методички.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 0. План методички"
+            }
+          },
+          {
+            "id": "4b579fb422459e6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Сети для маленьких/1.1..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1.1."
+            }
+          },
+          {
+            "id": "21e396e5b4da4633",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1def8ef355fa071a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Сети для маленьких/1.1..md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.1."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": true,
+      "graph:Граф": true,
+      "canvas:Создать новый холст": true,
+      "daily-notes:Сегодняшняя заметка": true,
+      "templates:Вставить шаблон": true,
+      "command-palette:Открыть палитру команд": true,
+      "bases:Создать новую базу": true
+    }
+  },
+  "active": "5fa994b07d7d3699",
+  "lastOpenFiles": [
+    "LICENSE",
+    "Райтапы/CTF School Finals.zip",
+    "Райтапы/CTF School Finals/Web/Вложенные файлы/B/Pasted image 20251118221812.png",
+    "Райтапы/CTF School Finals/Web/Вложенные файлы/B/Pasted image 20251118221136.png",
+    "Райтапы/CTF School Finals/Web/Вложенные файлы/B/Pasted image 20251118215715.png",
+    "Райтапы/CTF School Finals/Web/Вложенные файлы/B/Pasted image 20251118215404.png",
+    "Райтапы/CTF School Finals/Web/Вложенные файлы/A/Pasted image 20251118214502.png",
+    "Райтапы/CTF School Finals/Web/Вложенные файлы/A/Pasted image 20251118214414.png",
+    "Райтапы/CTF School Finals/Web/Вложенные файлы/A/Pasted image 20251118214336.png",
+    "Райтапы/CTF School Finals/Web/Вложенные файлы/A/Pasted image 20251118214224.png",
+    "Райтапы/CTF School Finals/Web/Вложенные файлы/A/Pasted image 20251118214136.png",
+    "Райтапы/CTF School Finals/Web/Вложенные файлы/A/Pasted image 20251118214052.png",
+    "Райтапы/CTF School Finals/Web/Вложенные файлы/B",
+    "Райтапы/CTF School Finals/Web/Вложенные файлы/A",
+    "Райтапы/CTF School Finals/Summer (Misc)/Файлы из заданий/Everlasting_Summer.zip",
+    "Райтапы/CTF School Finals/Summer (Misc)/Вложенные файлы/B",
+    "Райтапы/CTF School Finals/Summer (Misc)/Вложенные файлы/A",
+    "Райтапы/CTF School Finals/Stego/Файлы из заданий/sea_sounds.wav",
+    "Райтапы/CTF School Finals/Stego/Вложеннные файлы/C",
+    "Райтапы/CTF School Finals/Stego/Вложеннные файлы/B",
+    "Райтапы/CTF School Finals/Stego/Вложеннные файлы/A",
+    "Райтапы/CTF School Finals/Web/B. Слепой оракул.md",
+    "Райтапы/CTF School Finals/Web/A. Работа ведущего специалиста.md",
+    "Райтапы/CTF School Finals/Summer (Misc)/B. Подозрительное начало рута.md",
+    "Райтапы/CTF School Finals/Summer (Misc)/A. Сохранение в Steam.md",
+    "Райтапы/CTF School Finals/Stego/C. Звуки из глубин.md",
+    "Райтапы/CTF School Finals/Stego/B. Математические загадки Перельмана.md",
+    "Райтапы/CTF School Finals/Stego/A. Кринжовое хранение данных.md",
+    "Райтапы/CTF School Finals/PWN ((horny) JAIL)/A. Невозможный обход.md",
+    "Райтапы/CTF School Finals/Misc/C. Странный плейлист.md",
+    "Райтапы/CTF School Finals/Misc/B. Последняя надежда.md",
+    "Райтапы/CTF School Finals/Misc/A. Геймер до потери памяти.md",
+    "Райтапы/CTF School Finals/Crypto/C. Что это за музыка.md",
+    "Райтапы/CTF School Finals/Crypto/B. 415, база, ответьте.md",
+    "Райтапы/CTF School Finals/Crypto/A. Большие числа пугают меня.md",
+    "Райтапы/CTF School/Summer (Misc)/A. Сохранение в Steam.md",
+    "Райтапы/CTF School/Summer (Misc)/B. Подозрительное начало рута.md",
+    "Райтапы/CTF School/Web/B. Слепой оракул.md",
+    "Райтапы/CTF School/Web/A. Работа ведущего специалиста.md",
+    "Райтапы/CTF School/Stego/C. Звуки из глубин.md",
+    "Райтапы/CTF School/Stego/B. Математические загадки Перельмана.md",
+    "Райтапы/CTF School/Stego/A. Кринжовое хранение данных.md",
+    "Райтапы/CTF School/PWN ((horny) JAIL)/A. Невозможный обход.md",
+    "Райтапы/CTF School/Misc/C. Странный плейлист.md",
+    "Райтапы/CTF School/Misc/B. Последняя надежда.md",
+    "Райтапы/CTF School/Misc/A. Геймер до потери памяти.md"
+  ]
+}
